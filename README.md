@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cuunoong
+- 👋 Hi, I’m Arif Iskandar
 - 👀 I’m interested in Backend and problem solving program
 - 🌱 I’m currently learning laravel 
 - 📫 You can email me to hello@cuunoong.com
