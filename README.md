@@ -9,8 +9,7 @@ I'm Arif from Indonesia, and I love to code. I realy enjoy to learning languages
 * 📱 Java, Flutter
 * 💻 Vue JS, HTML, CSS, JS
 
-```javascript
-if (isAwesome){
-  return true
-}
+
+```php
+echo("Thank You");
 ```
